@@ -20,4 +20,5 @@ Meabh's Notes
   a github preview site and MIME type is therefore being obscured
 * The code is delivered via HTTP and is stored on github, I'm using a github preview site to display it and run it.
 * I used one extra JQuery library and an external image as part of my solution.
+* Background image is taken from: http://wallpapers.ae/red-christmas-background-photo.html
 * The comments in my javascript file explain my coding approach
