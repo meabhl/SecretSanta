@@ -1,0 +1,24 @@
+body {
+	background-image: url("Red-Christmas-Background-Photo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1, p{
+	color:#ffffff;
+}
+.button_main{
+	background-color:#ffffff;
+	color:#BE1F24;
+	border: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left:10px;
+	padding-right:10px;
+}
+td{
+	color:#ffffff;
+}
+tr{
+	padding-top:5px;
+	padding-bottom:5px;
+}
